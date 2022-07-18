@@ -22,11 +22,10 @@ projects:
 
 social:
 # - {icon: 'twitter',   link: 'https://twitter.com/paululele'}
-- {icon: 'instagram', link: 'https://instagram.com/paululele'}
-- {icon: 'github',    link: 'https://github.com/lenpaul'}
+- {icon: 'instagram', link: 'https://instagram.com/'}
+- {icon: 'github',    link: 'https://github.com/bezzies'}
 # - {icon: 'linkedin',  link: 'https://linkedin.com/in/lenpaul'}
-- {icon: 'envelope',  link: 'mailto:mailto:l.nguyen.paul@gmail.com'}
-
+- {icon: 'envelope',  link: 'mailto:bezziesss@gmail.com'}
 # social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'
 
 #-------------------------------
